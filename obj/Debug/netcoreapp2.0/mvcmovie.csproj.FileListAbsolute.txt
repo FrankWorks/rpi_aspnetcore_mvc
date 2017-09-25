@@ -8,3 +8,13 @@ C:\projects\code\2\mvcmovie\obj\Debug\netcoreapp2.0\mvcmovie.AssemblyInfoInputs.
 C:\projects\code\2\mvcmovie\obj\Debug\netcoreapp2.0\mvcmovie.AssemblyInfo.cs
 C:\projects\code\2\mvcmovie\obj\Debug\netcoreapp2.0\mvcmovie.dll
 C:\projects\code\2\mvcmovie\obj\Debug\netcoreapp2.0\mvcmovie.pdb
+c:\projects\vscode\2\rpi_aspnetcore_mvc\obj\Debug\netcoreapp2.0\mvcmovie.csproj.CoreCompileInputs.cache
+c:\projects\vscode\2\rpi_aspnetcore_mvc\obj\Debug\netcoreapp2.0\mvcmovie.AssemblyInfoInputs.cache
+c:\projects\vscode\2\rpi_aspnetcore_mvc\obj\Debug\netcoreapp2.0\mvcmovie.AssemblyInfo.cs
+c:\projects\vscode\2\rpi_aspnetcore_mvc\obj\Debug\netcoreapp2.0\mvcmovie.dll
+c:\projects\vscode\2\rpi_aspnetcore_mvc\obj\Debug\netcoreapp2.0\mvcmovie.pdb
+c:\projects\vscode\2\rpi_aspnetcore_mvc\bin\Debug\netcoreapp2.0\mvcmovie.deps.json
+c:\projects\vscode\2\rpi_aspnetcore_mvc\bin\Debug\netcoreapp2.0\mvcmovie.runtimeconfig.json
+c:\projects\vscode\2\rpi_aspnetcore_mvc\bin\Debug\netcoreapp2.0\mvcmovie.runtimeconfig.dev.json
+c:\projects\vscode\2\rpi_aspnetcore_mvc\bin\Debug\netcoreapp2.0\mvcmovie.dll
+c:\projects\vscode\2\rpi_aspnetcore_mvc\bin\Debug\netcoreapp2.0\mvcmovie.pdb
