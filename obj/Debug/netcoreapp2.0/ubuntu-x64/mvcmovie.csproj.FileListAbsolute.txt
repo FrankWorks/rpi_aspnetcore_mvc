@@ -1,0 +1,13 @@
+C:\projects\code\2\mvcmovie\bin\Debug\netcoreapp2.0\ubuntu-x64\libhostpolicy.so
+C:\projects\code\2\mvcmovie\bin\Debug\netcoreapp2.0\ubuntu-x64\libhostfxr.so
+C:\projects\code\2\mvcmovie\bin\Debug\netcoreapp2.0\ubuntu-x64\mvcmovie
+C:\projects\code\2\mvcmovie\bin\Debug\netcoreapp2.0\ubuntu-x64\mvcmovie.deps.json
+C:\projects\code\2\mvcmovie\bin\Debug\netcoreapp2.0\ubuntu-x64\mvcmovie.runtimeconfig.json
+C:\projects\code\2\mvcmovie\bin\Debug\netcoreapp2.0\ubuntu-x64\mvcmovie.runtimeconfig.dev.json
+C:\projects\code\2\mvcmovie\bin\Debug\netcoreapp2.0\ubuntu-x64\mvcmovie.dll
+C:\projects\code\2\mvcmovie\bin\Debug\netcoreapp2.0\ubuntu-x64\mvcmovie.pdb
+C:\projects\code\2\mvcmovie\obj\Debug\netcoreapp2.0\ubuntu-x64\mvcmovie.csproj.CoreCompileInputs.cache
+C:\projects\code\2\mvcmovie\obj\Debug\netcoreapp2.0\ubuntu-x64\mvcmovie.AssemblyInfoInputs.cache
+C:\projects\code\2\mvcmovie\obj\Debug\netcoreapp2.0\ubuntu-x64\mvcmovie.AssemblyInfo.cs
+C:\projects\code\2\mvcmovie\obj\Debug\netcoreapp2.0\ubuntu-x64\mvcmovie.dll
+C:\projects\code\2\mvcmovie\obj\Debug\netcoreapp2.0\ubuntu-x64\mvcmovie.pdb

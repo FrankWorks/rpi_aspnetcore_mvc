@@ -9594,12 +9594,10 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "BEHlpx/OeUrS2aNwGcW5mRiKq6YjxwgmqNWVdxtRH9o3GR8Ec3SxTK3EpIRtWttqnDa7FQCIcSfguWIDFw8d0w==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
-        "System.Linq.Queryable.4.0.1.nupkg.sha512",
-        "System.Linq.Queryable.nuspec",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/monoandroid10/_._",
@@ -9647,7 +9645,9 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._"
+        "ref/xamarinwatchos10/_._",
+        "system.linq.queryable.4.0.1.nupkg.sha512",
+        "system.linq.queryable.nuspec"
       ]
     },
     "System.Net.Http/4.3.0": {
@@ -12537,28 +12537,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Andrew\\.nuget\\packages\\": {},
+    "C:\\Users\\sp-its-10966\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\projects\\vscode\\2\\rpi_aspnetcore_mvc\\mvcmovie.csproj",
+      "projectUniqueName": "c:\\projects\\code\\2\\mvcmovie\\mvcmovie.csproj",
       "projectName": "mvcmovie",
-      "projectPath": "c:\\projects\\vscode\\2\\rpi_aspnetcore_mvc\\mvcmovie.csproj",
-      "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-      "outputPath": "c:\\projects\\vscode\\2\\rpi_aspnetcore_mvc\\obj\\",
+      "projectPath": "c:\\projects\\code\\2\\mvcmovie\\mvcmovie.csproj",
+      "packagesPath": "C:\\Users\\sp-its-10966\\.nuget\\packages\\",
+      "outputPath": "c:\\projects\\code\\2\\mvcmovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sp-its-10966\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
