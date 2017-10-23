@@ -10,7 +10,9 @@ COPY *.csproj ./
 
 RUN dotnet restore
 
+EXPOSE 81/tcp
 
+ENV ASPNETCORE_URLS http://*:81
 
 # copy everything else and build
 
