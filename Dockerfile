@@ -56,5 +56,5 @@ COPY --from=build-env /app/out .
 
 # Let me drop following line for testing
 
-#ENTRYPOINT ["dotnet", "mvcmovie.dll"]
+ENTRYPOINT ["dotnet", "mvcmovie.dll"]
 # Testing Only
