@@ -52,4 +52,6 @@ WORKDIR /app
 
 COPY --from=build-env /app/out .
 
-ENTRYPOINT ["dotnet", "mvcmovie.dll"]
+# Let me drop following line for testing
+
+#ENTRYPOINT ["dotnet", "mvcmovie.dll"]
