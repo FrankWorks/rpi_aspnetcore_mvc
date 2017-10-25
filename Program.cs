@@ -20,7 +20,7 @@ namespace mvcmovie
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
-                .UseUrls("http://localhost:5000")
+                .UseUrls("http://172.17.0.2:5000")
                 .Build();
     }
 }
