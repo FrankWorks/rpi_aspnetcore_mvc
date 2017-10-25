@@ -49,7 +49,7 @@ RUN dotnet publish -c Release -r linux-arm -o out
 #    && rm dotnet.tar.gz \
 #    && ln -s /usr/share/dotnet/dotnet /usr/bin/dotnet
 
-FROM frankfax/frankfax/dotnet-docker-samples:Arm32
+FROM frankfax/dotnet-docker-samples:Arm32
 
 #FROM frankfax/pi_netcore2.0_runtime
 
